@@ -1,0 +1,13 @@
+.custom-card{
+    display: flex;
+    justify-content: center;
+    background: #ffa900;
+    /* background : red; */
+    border-radius: 10px;
+    padding: 14px;
+    width: 100%;
+    
+}
+.kHNdbu{
+    background-color: #832f02;
+}
